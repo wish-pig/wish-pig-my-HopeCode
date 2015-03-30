@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B8BB5259-01ED-408B-AC63-C445D60A13B1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9A6D6347-AB97-4438-B1C5-5CFB76FE11D6</key>
+		<string>https://svn.eastedge.com.cn:8443/svn/Project/%E5%86%85%E8%92%99%E5%8F%A4%E6%A0%A1%E4%BF%A1%E9%80%9A%E6%95%99%E8%82%B2%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/%E9%A2%98%E8%B0%B7(%E6%8B%8D%E7%85%A7%E6%90%9C%E9%A2%98)/code/ios/TiGu</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9A6D6347-AB97-4438-B1C5-5CFB76FE11D6</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>9A6D6347-AB97-4438-B1C5-5CFB76FE11D6</key>
+		<string>https://svn.eastedge.com.cn:8443/svn/Project</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://svn.eastedge.com.cn:8443/svn/Project/%E5%86%85%E8%92%99%E5%8F%A4%E6%A0%A1%E4%BF%A1%E9%80%9A%E6%95%99%E8%82%B2%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8/%E9%A2%98%E8%B0%B7(%E6%8B%8D%E7%85%A7%E6%90%9C%E9%A2%98)/code/ios/TiGu/project.xcworkspace</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9A6D6347-AB97-4438-B1C5-5CFB76FE11D6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9A6D6347-AB97-4438-B1C5-5CFB76FE11D6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TiGu</string>
+		</dict>
+	</array>
+</dict>
+</plist>

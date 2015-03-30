@@ -1,0 +1,45 @@
+//
+//  EFViewController.m
+//  EastedgeFoundation
+//
+//  Created by 严登峰 on 13-9-3.
+//  Copyright (c) 2013年 严登峰. All rights reserved.
+//
+
+#import "EFViewController.h"
+#import "Message.h"
+#import "UserInfo.h"
+#import "Evaluation.h"
+#import "AdPage.h"
+#import "Pay.h"
+#import "SearchQuestion.h"
+@implementation EFViewController
+{
+    BaseObject* _userData;
+}
+
+-(void)setUserData:(BaseObject *)userData
+{
+    _userData = userData;
+    
+    [userData addDelegate:self];
+    
+}
+
+-(BaseObject*)getUserData
+{
+    return _userData;
+}
+
+-(void)dataObjectChanged:(NSString*)object
+{
+    
+}
+
+-(void)dealloc
+{
+    [_userData removeDelegate:self];
+    [super dealloc];
+}
+
+@end

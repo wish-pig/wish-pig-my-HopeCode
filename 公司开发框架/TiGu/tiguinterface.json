@@ -1,0 +1,63 @@
+{
+
+	"address": "www.tiguAS/login.com",
+	"param": "",
+	"result":
+		{
+			"code":"1",
+		   	"errormsg":"",
+		     	"usrid":"900123123",
+		     	"havesearchprivilege":"1",
+			
+		},
+
+	"address":"www.tiguAS/user/register.com",
+	"param":"",
+	"result":
+		{
+			"code":"1",
+			"errormsg":"",
+			"usrid":"900123123",
+			"havesearchprivilege":"1",
+		},
+			
+	"address":"www.tiguAS/question/evalution/homepage/query.com",
+	"param":"",
+	"result":
+		{
+			"code":"1",
+			"errormsg":"",
+			"qid":"50002001",
+			"score":
+				{
+					"value":85,
+					"scorecnt":160
+				},
+		},
+
+    "address":"www.tiguAS/user/query.com",
+    "param":"",
+    "result":
+            {
+                "code":"0",
+                "errormsg":"",
+                "usrid":"",
+                "nickname":"Jackie",
+                "realname":"张先生",
+                "gender":"1",
+                "provincename":"辽宁",
+                "provinceid":"24",
+                "cityname":"铁岭",
+                "cityid":"87",
+                "countyname":"",
+                "countyid":"",
+                "schoolid":"180",
+                "schoolname":"清华高中",
+                "gradename":"高二",
+                "gradeid":"11",
+                "classname":"6",
+                "signature":"题谷真的很好用啊",
+              
+              
+            }
+}
